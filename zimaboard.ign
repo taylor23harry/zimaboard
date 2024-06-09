@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.4.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "zimaboard",
+        "sshAuthorizedKeys": [
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINQ8yMWePzEju1eOqOMW78DGZQTiNsg3S9t4otFcDbw8 taylor23harry@gmail.com"
+        ]
+      }
+    ]
+  }
+}
